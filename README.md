@@ -1,82 +1,98 @@
-# 📊 AI ROI Analyzer
+AI ROI Analyzer – SQL + Power BI Project
 
-An end-to-end Business Intelligence project built using **SQL** and **Power BI** to analyze global AI adoption, investments, business functions, industry trends, and public perception.
+A business intelligence dashboard built using SQL and Power BI to analyze global AI adoption, investment trends, business function usage, industry adoption, and public perception.
 
----
+Project Overview
 
-## 🚀 Project Overview
+Organizations worldwide are rapidly investing in Artificial Intelligence, but understanding where AI creates the highest value remains a challenge.
 
-This project analyzes worldwide AI adoption and investment trends by transforming raw datasets into an interactive Power BI dashboard.
+This project analyzes AI adoption across industries and countries using SQL for data preparation and Power BI for interactive visualization.
 
-The objective is to help business leaders understand:
+Business Problem
 
-- AI adoption across organizations
-- Global AI investment trends
-- Industry-wise AI adoption
-- Business function growth
-- Public perception of AI
+Businesses want to answer questions like:
 
----
+Which countries invest the most in AI?
+Which industries are adopting AI fastest?
+Which business functions use AI the most?
+How has AI adoption changed over time?
+What is public perception of AI across countries?
+Tools Used
+SQL
+Power BI
+DAX
+Data Modeling
+Power Query
+Data Visualization
+Dashboard Pages
+Executive Overview
+Global AI Adoption
+AI Investment by Country
+Public Perception
+Executive KPIs
+Industry & Function Analysis
+Industry Adoption
+Business Function Adoption
+Growth Comparison
+Industry Insights
+AI Tools & Global Trends
+AI Tool Usage
+Investment Trends
+Country Comparison
+Public Sentiment
+Key Insights
+Global AI adoption has increased significantly in recent years.
+Technology and Financial Services lead AI adoption.
+AI investment varies greatly between countries.
+Marketing & Sales and Service Operations show high AI utilization.
+Public perception differs considerably across regions.
+Dataset
 
-## 🛠️ Tools Used
+The project uses CSV datasets stored inside the Dataset folder.
 
-- SQL
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
+Included datasets:
 
----
+Organization Adoption
+Business Functions
+AI Tool Users
+Investment by Country
+Industry Adoption
+Country Sentiment
+KPI Summary
+Repository Structure
+AI-ROI-Analyzer
+│
+├── Dataset/
+│   ├── 1_org_adoption.csv
+│   ├── 2_business_function.csv
+│   ├── 3_ai_tool_users.csv
+│   ├── 4_investment_by_country.csv
+│   ├── 5_industry_adoption.csv
+│   ├── 6_sentiment_by_country.csv
+│   └── 7_kpi_summary.csv
+│
+├── AI_ROI_Analyzer.sql
+├── AI_ROI_Analyzer.pbix
+├── page1.jpeg
+├── page2.jpeg
+├── page3.jpeg
+└── README.md
+Dashboard Preview
+Executive Overview
 
-## 📈 Dashboard Pages
+Industry Analysis
 
-### Executive Overview
-- Global AI Adoption
-- AI Investment
-- Public Perception
-- Executive KPIs
+AI Trends
 
-### Industry & Function Analysis
-- Industry Adoption
-- Business Function Analysis
-- Growth Trends
+Skills Demonstrated
+SQL Query Writing
+Data Cleaning
+Data Modeling
+DAX Measures
+KPI Design
+Dashboard Design
+Business Intelligence
+Data Storytelling
+Author
 
-### AI Tools & Global Insights
-- AI Tool Usage
-- Country Comparison
-- AI Sentiment
-
----
-
-## 📂 Repository Structure
-
-```
-Dataset/
-PowerBI/
-SQL/
-Dashboard Images/
-README.md
-```
-
----
-
-## 📸 Dashboard Preview
-
-See the **Dashboard Images** folder for screenshots.
-
----
-
-## 📁 Files Included
-
-- Power BI Dashboard (.pbix)
-- SQL Script (.sql)
-- CSV Datasets
-- Dashboard Screenshots
-
----
-
-## 👩‍💻 Author
-
-**Jahnavi Poddar**
-
-LinkedIn: (Add your LinkedIn profile here)
+Jahnavi Poddar
