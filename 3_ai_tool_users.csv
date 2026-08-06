@@ -1,0 +1,26 @@
+tool_platform,metric_type,period_label,metric_value,unit
+ChatGPT,Monthly Active Users,Dec 2022,57000000,Users
+ChatGPT,Monthly Active Users,Jan 2023,100000000,Users
+ChatGPT,Weekly Active Users,Aug 2023,100000000,Weekly Users
+ChatGPT,Monthly Active Users,May 2024,200000000,Users
+ChatGPT,Weekly Active Users,Oct 2024,250000000,Weekly Users
+ChatGPT,Weekly Active Users,Dec 2024,300000000,Weekly Users
+ChatGPT,Weekly Active Users,Feb 2025,400000000,Weekly Users
+ChatGPT,Weekly Active Users,Mar-Apr 2025,800000000,Weekly Users
+ChatGPT,Monthly Unique Visitors,Nov 2025,775600000,Visitors/month
+ChatGPT,Monthly Site Visits,Jul 2025,5600000000,Visits/month
+ChatGPT,India Weekly Active Users,2025,100000000,Weekly Indian users
+GitHub Copilot,Paid Subscribers,Jun 2022,1000000,Users
+GitHub Copilot,Paid Subscribers,2023,1300000,Users
+GitHub Copilot,Users (enterprise+ind),Early 2024,1800000,Users
+GitHub Copilot,Users (all tiers),Late 2024,15000000,Users
+Microsoft Copilot (Bing),Daily Active Users,Mar 2023,100000000,Daily Bing users
+Microsoft Copilot (Bing),Daily Active Users,Apr 2024,140000000,Daily Bing users
+Midjourney,Discord Registered Users,Dec 2023,17500000,Users
+Midjourney,Registered Users,2024,19260000,Users
+Google Gemini,Monthly Site Visits,Jan 2025,267600000,Visits/month
+Google Gemini,Monthly Site Visits,Feb 2025,284000000,Visits/month
+All AI Tools (global est.),Daily Active AI Tool Users,2021,200000000,Est. daily users
+All AI Tools (global est.),Daily Active AI Tool Users,2022,260000000,Est. daily users
+All AI Tools (global est.),Daily Active AI Tool Users,2024,314000000,Est. daily users
+All AI Tools (global est.),Daily Active AI Tool Users,2025,378000000,Est. daily users
