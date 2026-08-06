@@ -1,68 +1,90 @@
-AI ROI Analyzer – SQL + Power BI Project
+# 🚀 AI ROI Analyzer
 
-A business intelligence dashboard built using SQL and Power BI to analyze global AI adoption, investment trends, business function usage, industry adoption, and public perception.
+> **An end-to-end Business Intelligence project built using SQL and Power BI to analyze global AI adoption, investment trends, business functions, industry adoption, and public perception.**
 
-Project Overview
+---
 
-Organizations worldwide are rapidly investing in Artificial Intelligence, but understanding where AI creates the highest value remains a challenge.
+## 📌 Project Overview
 
-This project analyzes AI adoption across industries and countries using SQL for data preparation and Power BI for interactive visualization.
+Artificial Intelligence is transforming industries worldwide, but organizations need data-driven insights to understand where AI creates the greatest business value.
 
-Business Problem
+This project combines **SQL** and **Power BI** to transform raw datasets into an interactive dashboard that provides meaningful insights into AI adoption, investment patterns, industry trends, and public perception.
 
-Businesses want to answer questions like:
+---
 
-Which countries invest the most in AI?
-Which industries are adopting AI fastest?
-Which business functions use AI the most?
-How has AI adoption changed over time?
-What is public perception of AI across countries?
-Tools Used
-SQL
-Power BI
-DAX
-Data Modeling
-Power Query
-Data Visualization
-Dashboard Pages
-Executive Overview
-Global AI Adoption
-AI Investment by Country
-Public Perception
-Executive KPIs
-Industry & Function Analysis
-Industry Adoption
-Business Function Adoption
-Growth Comparison
-Industry Insights
-AI Tools & Global Trends
-AI Tool Usage
-Investment Trends
-Country Comparison
-Public Sentiment
-Key Insights
-Global AI adoption has increased significantly in recent years.
-Technology and Financial Services lead AI adoption.
-AI investment varies greatly between countries.
-Marketing & Sales and Service Operations show high AI utilization.
-Public perception differs considerably across regions.
-Dataset
+## 🎯 Business Problem
 
-The project uses CSV datasets stored inside the Dataset folder.
+Organizations want answers to questions such as:
 
-Included datasets:
+- 🌍 Which countries invest the most in AI?
+- 📈 How has AI adoption changed over time?
+- 🏢 Which industries are leading AI adoption?
+- 💼 Which business functions use AI the most?
+- 😊 What is the public perception of AI across countries?
 
-Organization Adoption
-Business Functions
-AI Tool Users
-Investment by Country
-Industry Adoption
-Country Sentiment
-KPI Summary
-Repository Structure
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|------|---------|
+| 🗄 SQL | Data Extraction & Analysis |
+| 📊 Power BI | Dashboard Development |
+| 📐 DAX | KPI & Measure Creation |
+| 🔄 Power Query | Data Transformation |
+| 📈 Data Visualization | Business Insights |
+
+---
+
+# 📊 Dashboard Pages
+
+## 1️⃣ Executive Overview
+
+- 📌 Global AI Adoption
+- 💰 AI Investment
+- 🌍 Public Perception
+- 📈 Executive KPIs
+
+---
+
+## 2️⃣ Industry & Function Analysis
+
+- 🏢 Industry Adoption
+- 💼 Business Function Analysis
+- 📈 Growth Comparison
+- 🔍 Industry Insights
+
+---
+
+## 3️⃣ AI Tools & Global Insights
+
+- 🤖 AI Tool Usage
+- 🌍 Country Comparison
+- 💰 Investment Analysis
+- 😊 Public Sentiment
+
+---
+
+# ✨ Key Insights
+
+✔ AI adoption has increased significantly in recent years.
+
+✔ Technology and Financial Services are among the leading industries adopting AI.
+
+✔ AI investment varies considerably across countries.
+
+✔ Marketing & Sales and Service Operations are among the top business functions using AI.
+
+✔ Public perception of AI differs across regions.
+
+---
+
+# 📂 Repository Structure
+
+```
 AI-ROI-Analyzer
 │
-├── Dataset/
+├── 📁 Dataset
 │   ├── 1_org_adoption.csv
 │   ├── 2_business_function.csv
 │   ├── 3_ai_tool_users.csv
@@ -71,28 +93,61 @@ AI-ROI-Analyzer
 │   ├── 6_sentiment_by_country.csv
 │   └── 7_kpi_summary.csv
 │
-├── AI_ROI_Analyzer.sql
-├── AI_ROI_Analyzer.pbix
-├── page1.jpeg
-├── page2.jpeg
-├── page3.jpeg
-└── README.md
-Dashboard Preview
-Executive Overview
+├── 📄 AI_ROI_Analyzer.sql
+├── 📄 AI_ROI_Analyzer.pbix
+├── 🖼 page1.jpeg
+├── 🖼 page2.jpeg
+├── 🖼 page3.jpeg
+└── 📘 README.md
+```
 
-Industry Analysis
+---
 
-AI Trends
+# 📸 Dashboard Preview
 
-Skills Demonstrated
-SQL Query Writing
-Data Cleaning
-Data Modeling
-DAX Measures
-KPI Design
-Dashboard Design
-Business Intelligence
-Data Storytelling
-Author
+## 🏠 Executive Overview
 
-Jahnavi Poddar
+![Dashboard Page 1](page%201.jpeg)
+
+---
+
+## 📈 Industry & Function Analysis
+
+![Dashboard Page 2](page%202.jpeg)
+
+---
+
+## 🌍 AI Tools & Global Insights
+
+![Dashboard Page 3](page3.jpeg)
+
+---
+
+# 💡 Skills Demonstrated
+
+- ✅ SQL
+- ✅ Power BI
+- ✅ DAX
+- ✅ Power Query
+- ✅ Data Cleaning
+- ✅ Data Modeling
+- ✅ KPI Development
+- ✅ Dashboard Design
+- ✅ Business Intelligence
+- ✅ Data Storytelling
+
+---
+
+# 👩‍💻 Author
+
+**Jahnavi Poddar**
+🌐 GitHub: https://github.com/jahnavipoddarr
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository!
+
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository!
