@@ -1,46 +1,82 @@
-# AI ROI Analyzer
+# 📊 AI ROI Analyzer
 
-## Project Overview
-AI ROI Analyzer is an interactive Power BI dashboard that analyzes global AI adoption, AI investments, industry-wise adoption, business function usage, AI tools, and public perception using real-world datasets.
+An end-to-end Business Intelligence project built using **SQL** and **Power BI** to analyze global AI adoption, investments, business functions, industry trends, and public perception.
 
-## Tech Stack
-- Power BI
-- SQL
-- DAX
-- Microsoft Excel
+---
 
-## Features
-- Executive Overview Dashboard
-- Industry & Business Function Analysis
-- AI Tools & Global Insights
-- Interactive Filters
-- Custom Tooltips
-- Navigation Buttons
+## 🚀 Project Overview
 
-## Dashboard Pages
-### Executive Overview
-- Global AI adoption trends
-- AI investment by country
+This project analyzes worldwide AI adoption and investment trends by transforming raw datasets into an interactive Power BI dashboard.
+
+The objective is to help business leaders understand:
+
+- AI adoption across organizations
+- Global AI investment trends
+- Industry-wise AI adoption
+- Business function growth
 - Public perception of AI
+
+---
+
+## 🛠️ Tools Used
+
+- SQL
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+
+---
+
+## 📈 Dashboard Pages
+
+### Executive Overview
+- Global AI Adoption
+- AI Investment
+- Public Perception
 - Executive KPIs
 
 ### Industry & Function Analysis
-- Industry adoption comparison
-- Business function adoption
-- Growth analysis
-- Industry insights
+- Industry Adoption
+- Business Function Analysis
+- Growth Trends
 
 ### AI Tools & Global Insights
-- AI tool usage
-- Investment analysis
-- Country comparison
-- AI perception insights
+- AI Tool Usage
+- Country Comparison
+- AI Sentiment
 
-## Files Included
-- AI ROI Analyzer.pbix
-- SQL Queries.sql
-- Messy Data folder
+---
+
+## 📂 Repository Structure
+
+```
+Dataset/
+PowerBI/
+SQL/
+Dashboard Images/
+README.md
+```
+
+---
+
+## 📸 Dashboard Preview
+
+See the **Dashboard Images** folder for screenshots.
+
+---
+
+## 📁 Files Included
+
+- Power BI Dashboard (.pbix)
+- SQL Script (.sql)
+- CSV Datasets
 - Dashboard Screenshots
 
-## Author
+---
+
+## 👩‍💻 Author
+
 **Jahnavi Poddar**
+
+LinkedIn: (Add your LinkedIn profile here)
